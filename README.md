@@ -2,7 +2,6 @@
 
 
 ### DEPENDENCIES
-============
 
 ```Ragel``` depends on the ```Colm``` Programming Language. For now, the two packages move
 in close lockstep. If building ```ragel``` from source, generally, the ```master``` branch of
@@ -10,7 +9,6 @@ in close lockstep. If building ```ragel``` from source, generally, the ```master
 ```EXPECTED_COLM_VER``` in ```configure.ac```
 
 ## BUILDING
-========
 
 Ragel is built with ```autotools```. If building from revision control you need to
 run ```autogen.sh```
